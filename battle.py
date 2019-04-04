@@ -1,5 +1,4 @@
 from pokemon import Pokemon
-
 import time
 
 pika = Pokemon('ピカチュウ', 30, 13)
